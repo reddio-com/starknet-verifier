@@ -22,7 +22,6 @@ export ADMIN_PRIVATE_KEY=...
 export ETHERSCAN_KEY=...
 ```
 
-
 4. Deploy
 
 ```console
